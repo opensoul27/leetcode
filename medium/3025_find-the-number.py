@@ -1,4 +1,3 @@
-
 """
 LeetCode: 3025. Find the Number of Ways to Place People I
 URL: https://leetcode.com/problems/3025_find-the-number/
